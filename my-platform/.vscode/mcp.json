@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "encore-local": {
+            "args": [
+                "mcp",
+                "run",
+                "--app=my-platform-th5i"
+            ],
+            "command": "encore"
+        }
+    }
+}
